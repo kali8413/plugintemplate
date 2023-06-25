@@ -38,7 +38,7 @@ subprojects {
     apply(plugin = "com.lagradost.cloudstream3.gradle")
 
     cloudstream {
-        setRepo("https://github.com/user/repo") // Replace with your repository URL
+        setRepo(""https://github.com/kali8413/plugintemplate/) // Replace with your repository URL
         setApi("https://api.allanime.to/") // Set the API URL to api.allanime.to
     }
 
